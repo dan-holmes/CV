@@ -70,8 +70,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### St. Albans School (September 2005 to June 2012)
 
-A Level: A* Mathematics, A Economics, A Biology  
-GCSE:   10 subjects at A*
+- A Level: A* Mathematics, A Economics, A Biology  
+- GCSE:   10 subjects at A*
 
 ## Hobbies
 
