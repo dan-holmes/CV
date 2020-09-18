@@ -1,6 +1,11 @@
+
 ## Daniel Holmes
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I’m an analytically minded individual with a strong set of technical, mathematical and commercial skills.
+
+I have a long standing interest in programming, underpinned by a degree in Mathematics with Computer Science from Durham University and most recently a 16 week intensive coding bootcamp at Makers Academy.
+
+Having used scripting languages such as Python, R and SQL during my job as an analyst I am excited to expand my skill base and help create exciting new software and tools.
 
 ## Projects
 
@@ -13,9 +18,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 **Ocado**
 Senior Customer Insight Analyst (April 2019 to September 2020)
-
 Customer Insight Analyst (December 2018 to April 2019)
-
 Trading Insight Analyst (May 2016 to May 2017)
 
 - Worked within the Retail department as an analyst, using data to solve problems for the company’s Trading and Marketing teams.
@@ -52,23 +55,26 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September 2020 to December 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Durham University (September 2012 to June 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Mathematics with Computer Science
+- 2:1
+- Including 1st in all Computer Science modules
 
-#### Any other qualifications
+#### St. Albans School (September 2005 to June 2012)
 
-That in some arguable way make you a better software developer or well-rounded person
+A Level: A* Mathematics, A Economics, A Biology
+GCSE:   10 subjects at A*
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+-   I’m an avid skier and hiker and was lucky enough to be able to pursue both during a working holiday in the Canadian Rockies.
+-   A keen chess player and always looking for more opponents!
+-   And enjoy pretty much all racquet sports, although only have any actual skill at tennis.
