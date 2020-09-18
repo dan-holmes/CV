@@ -16,18 +16,18 @@ Having used scripting languages such as Python, R and SQL during my job as an an
 
 ## Experience
 
-**Ocado**
-Senior Customer Insight Analyst (April 2019 to September 2020)
-Customer Insight Analyst (December 2018 to April 2019)
-Trading Insight Analyst (May 2016 to May 2017)
+**Ocado**  
+Senior Customer Insight Analyst (April 2019 to September 2020)  
+Customer Insight Analyst (December 2018 to April 2019)  
+Trading Insight Analyst (May 2016 to May 2017)  
 
 - Worked within the Retail department as an analyst, using data to solve problems for the company’s Trading and Marketing teams.
 - Used a combination of tools including SQL, Python and R to process the vast amount of data collected by the company and use it to create clear, actionable insight.
 - Responsible for building and maintaining automatically refreshing self-serve tools and reports used by stakeholders on a day to day basis.
 - Undertook an online course in Python and used it in a project to set delivery prices dynamically based on the shape of demand throughout the week.
 
-**Amazon**
-Graduate Vendor Manager (June 2015 to February 2016)
+**Amazon**  
+Graduate Vendor Manager (June 2015 to February 2016)  
 
 - Team lead for the implementation and analysis of pet supplies price/promotion activity.
 - Led an International Project to standardise new product information capture.
@@ -70,7 +70,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### St. Albans School (September 2005 to June 2012)
 
-A Level: A* Mathematics, A Economics, A Biology
+A Level: A* Mathematics, A Economics, A Biology  
 GCSE:   10 subjects at A*
 
 ## Hobbies
