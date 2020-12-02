@@ -6,7 +6,7 @@ Recently completed the Makers Academy development bootcamp to gain valuable indu
 
 Previously worked as a Senior Analyst at Ocado Retail, supporting the marketing team with data led insight using SQL, Tableau, Python and R.
 
-Underpinning this practical experience is a proven academic record, including a 2:1 Bachelor degree in Mathematics and Computer Science at Durham University.
+Underpinning this practical experience is a proven academic record, including a 2:1 Bachelor degree in Mathematics and Computer Science from Durham University.
 
 ## Experience
 
