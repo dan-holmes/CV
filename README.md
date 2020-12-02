@@ -19,7 +19,7 @@ Underpinning this practical experience is a proven academic record, including a 
 - Used tools including BigQuery (SQL), Tableau, Python and R.
 - Worked with Google to integrate AutoML into our technology stack and led internal training sessions to drive adoption.
 - Led technical projects from end to end including scoping, planning, implementing and review. Communicated with senior stakeholders to deliver commercially critical projects on time.
-- Stepped up to lead the Customer Insight team during March 2020 - Ocado's busiest ever month. Managed the team through a period of high stress, huge demand and large operational changes. This was neccasary as the team manager was stuck indefinitely abroard due to the pandemic.
+- Stepped up to lead the Customer Insight team during March 2020 - Ocado's busiest ever month. Managed the team throughout a period of high stress, huge demand and large operational changes. This was neccasary as the team manager was stuck indefinitely abroard due to the pandemic.
 
 ### Amazon 
 *Graduate Vendor Manager (June 2015 to February 2016)*
