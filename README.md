@@ -72,4 +72,4 @@ Achieved a first in all Computer Science modules including:
 
 - I’m an avid skier and hiker and was lucky enough to be able to pursue both during a working holiday in the Canadian Rockies.
 - A keen chess player and always looking for more opponents.
-- Have a love for live music and am learning to play the guitar.
+- Have a love for live music and learning to play the guitar.
