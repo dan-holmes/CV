@@ -1,6 +1,6 @@
 # Daniel Holmes
 
-A budding software developer with a strong set of technical, mathematical and commercial skills.
+A junior software developer with a strong set of technical, mathematical and commercial skills.
 
 Recently completed the Makers Academy development bootcamp to gain valuable industry skills such as object-oriented design, Agile methodologies and test driven development.
 
@@ -16,19 +16,18 @@ Underpinning this practical experience is a proven academic record, including a 
 *Trading Insight Analyst (May 2016 to May 2017)*  
 
 - Used commercial and web analytics data to create clear, actionable insight for the Trading and Marketing teams.
-- Used tools including BigQuery (SQL), Tableau, Python and R.
+- Gained advanced skills in tools such as SQL, Tableau, Python and R. 
+- Led technical projects from end to end including scoping, planning, implementation and review. Projects included dynamic delivery pricing, optimally allocating warehouse space between departments and estimating the life term value of a customer from their first shop using machine learning.
+- Became the team's point of contact for technical questions. Trained and developed new joiners.
 - Worked with Google to integrate AutoML into our technology stack and led internal training sessions to drive adoption.
-- Led technical projects from end to end including scoping, planning, implementing and review. Communicated with senior stakeholders to deliver commercially critical projects on time.
-- Stepped up to lead the Customer Insight team during March 2020 - Ocado's busiest ever month. Managed the team throughout a period of high stress, huge demand and large operational changes. This was neccasary as the team manager was stuck indefinitely abroard due to the pandemic.
+- Stepped in as interim Customer Insight Manager during March 2020 - Ocado's busiest month to date. Managed the team throughout a period of high stress, huge demand and large operational changes.
 
 ### Amazon 
 *Graduate Vendor Manager (June 2015 to February 2016)*
 
-- Worked within the Pets team to help buy, merchandise and sell pet food and supplies.
+- Worked within the Pets team to help buy, merchandise and sell products.
 - Responsible for the implementation and analysis of price/promotion activity.
 - Led an international project to standardise new product information capture.
-- Represented the category on the Customer Experience Committee.
-- Improved both sales and customer satisfaction following a full review of ‘Subscribe and Save’ for the category.
 
 ## Education
 
@@ -40,12 +39,13 @@ A 16-week intensive development bootcamp, focusing on:
  - Object-oriented design
  - Agile methodologies
  - Test driven development
+ - Pair programming and team projects
 
  Gained technical skills including:
- - Ruby, Rails, Sinatra 
  - JavaScript, React, Node.js
- - HTML, CSS
+ - Ruby, Rails, Sinatra 
  - RSpec, Capybara, Jasmine, Jest
+ - HTML, CSS
  - CI/CD using Travis, Rake, GitHub, Heroku
 
 [Click here](Portfolio.md) to see a portfolio of work created during the course.
@@ -55,7 +55,7 @@ A 16-week intensive development bootcamp, focusing on:
 ### Durham University
 *September 2012 to June 2015*
 
-Studied Mathematics with Computer Science achieving a 2:1 grade.
+Studied Mathematics with Computer Science attaining a 2:1 grade.
 
 Achieved a first in all Computer Science modules including:
 
@@ -72,4 +72,4 @@ Achieved a first in all Computer Science modules including:
 
 - I’m an avid skier and hiker and was lucky enough to be able to pursue both during a working holiday in the Canadian Rockies.
 - A keen chess player and always looking for more opponents.
-- Recently started learning the guitar.
+- Have a love for live music and am learning to play the guitar.
