@@ -2,11 +2,11 @@
 
 A junior software developer with a strong set of technical, mathematical and commercial skills.
 
-Recently completed the Makers Academy development bootcamp to gain valuable industry skills such as object-oriented design, Agile methodologies and test driven development.
+Recently completed the Makers Academy bootcamp to gain skills in Javascript and Ruby using object-oriented design, Agile methodologies and test driven development.
 
 Previously worked as a Senior Analyst at Ocado Retail, supporting the marketing team with data led insight using SQL, Tableau, Python and R.
 
-Underpinning this practical experience is a proven academic record, including a 2:1 Bachelor degree in Mathematics and Computer Science from Durham University.
+Underpinning this practical experience is a proven academic record, including a 2:1 bachelor's degree in Mathematics and Computer Science from Durham University.
 
 ## Experience
 
@@ -16,7 +16,7 @@ Underpinning this practical experience is a proven academic record, including a 
 *Trading Insight Analyst (May 2016 to May 2017)*  
 
 - Used commercial and web analytics data to create clear, actionable insight for the Trading and Marketing teams.
-- Gained advanced skills in tools such as SQL, Tableau, Python and R. 
+- Gained advanced skills in tools such as SQL, Python, R and Tableau. 
 - Led technical projects from end to end including scoping, planning, implementation and review. Projects included dynamic delivery pricing, optimally allocating warehouse space between departments and estimating the life term value of a customer from their first shop using machine learning.
 - Became the team's point of contact for technical questions. Trained and developed new joiners.
 - Worked with Google to integrate AutoML into our technology stack and led internal training sessions to drive adoption.
