@@ -50,7 +50,7 @@ A 16-week intensive development bootcamp, focusing on:
 ### Durham University
 *September 2012 to June 2015*
 
-Studied Mathematics with Computer Science attaining a 2:1 grade.
+Studied Mathematics with Computer Science attaining a 2:1 grade.  
 Including Intro to Programming (75%), Computer Systems (74%) and Programming Paradigms (81%).
 
  ### St. Albans School
