@@ -18,7 +18,7 @@ Underpinning this practical experience is a proven academic record, including a 
 - Used commercial and web analytics data to create clear, actionable insight for the Trading and Marketing teams.
 - Gained advanced skills in tools such as SQL, Python, R and Tableau. 
 - Led technical projects from end to end including scoping, planning, implementation and review. Projects included dynamic delivery pricing, optimally allocating warehouse space between departments and estimating the life term value of a customer from their first shop using machine learning.
-- Became the team's point of contact for technical questions. Trained and developed new joiners.
+- Trained and developed new starters. Became the team’s point of contact for technical questions.
 - Worked with Google to integrate AutoML into our technology stack and led internal training sessions to drive adoption.
 - Stepped in as interim Customer Insight Manager during March 2020 - Ocado's busiest month to date. Managed the team throughout a period of high stress, huge demand and large operational changes.
 
@@ -36,17 +36,12 @@ Underpinning this practical experience is a proven academic record, including a 
 
 A 16-week intensive development bootcamp, focusing on:
 
- - Object-oriented design
- - Agile methodologies
- - Test driven development
- - Pair programming and team projects
-
- Gained technical skills including:
- - JavaScript, React, Node.js
- - Ruby, Rails, Sinatra 
- - RSpec, Capybara, Jasmine, Jest
- - HTML, CSS
- - CI/CD using Travis, Rake, GitHub, Heroku
+|  Skills | Technologies   |
+|--------|-----|
+| Object-oriented design | JavaScript, React, Node.js, Jasmine, Jest |
+|  Agile methodologies | Ruby, Rails, Sinatra, RSpec, Capybara |
+| Test driven development | HTML, CSS |
+| Pair programming and team projects | CI/CD using Travis, Rake, GitHub, Heroku |
 
 [Click here](Portfolio.md) to see a portfolio of work created during the course.
 
@@ -56,20 +51,15 @@ A 16-week intensive development bootcamp, focusing on:
 *September 2012 to June 2015*
 
 Studied Mathematics with Computer Science attaining a 2:1 grade.
+Including Intro to Programming (75%), Computer Systems (74%) and Programming Paradigms (81%).
 
-Achieved a first in all Computer Science modules including:
-
- - Introduction to Programming - 75%  
- - Computer Systems - 74%  
- - Programming Paradigms - 81%  
  ### St. Albans School
  *September 2005 to June 2012*
 
-- A Level: A* Mathematics, A Economics, A Biology  
-- GCSE:   10 subjects at A*
+A Level: A* Mathematics, A Economics, A Biology  
+GCSE: A* in ten subjects
 
 ## Hobbies
 
 - I’m an avid skier and hiker and was lucky enough to be able to pursue both during a working holiday in the Canadian Rockies.
 - A keen chess player and always looking for more opponents.
-- Have a love for live music and learning to play the guitar.
